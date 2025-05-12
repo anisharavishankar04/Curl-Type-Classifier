@@ -1,6 +1,6 @@
 # Curl Type Classifier
 
-This project builds a deep learning model that classifies wavy and curly hair images into the following classes: 2A/2B, 2C, 3A/3B, and 3C. Type 2 represents wavy hair and Type 3 represents curly hair.
+This project builds a deep learning model that classifies wavy and curly hair images into the following classes: 2A/2B, 2C, 3A/3B, and 3C. Type 2 represents wavy hair and Type 3 represents curly hair. Types 2A and 2B have been combined and Types 3A and 3B have been combined as the differences between these classes are extremely subtle. Separating them would not have been feasible, given the small dataset.
 
 ## Dataset
 
