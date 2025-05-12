@@ -28,7 +28,7 @@ You don't need to install anything locally to run this project. You can use Goog
 
 2. Open Google Colab on your browser and sign in.
 
-3. If the notebook doesn't automatically open, go to File -> Open notebook -> Upload. Either browse and add the .ipynb file or simply drag it onto the screen. The notebook will open in Google Colab.
+3. If the pop-up doesn't automatically show up, go to File -> Open notebook -> Upload. Either browse and add the .ipynb file or simply drag it onto the screen. The notebook will open in Google Colab.
 
 4. Create your dataset and upload it onto your Google Drive. The dataset used in this project has not been provided due to copyright restrictions.
 
