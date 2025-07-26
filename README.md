@@ -74,7 +74,3 @@ You **do not need to install anything locally**. This project is designed to run
 - You may need to fine-tune paths and batch sizes if using a dataset of different size.
 
 ---
-
-## Contact
-
-For questions or contributions, feel free to open an issue or submit a pull request.
